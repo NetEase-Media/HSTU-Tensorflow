@@ -37,4 +37,4 @@ We express our gratitude to the following:
 
 - The authors of the original paper: [Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations](https://arxiv.org/abs/2402.17152).
 - The Meta AI team for their PyTorch implementation in the [generative-recommenders](https://github.com/facebookresearch/generative-recommenders) repository, which inspired this TensorFlow version.
-- The [SASRec](https://github.com/kang205/SASRec) authors (Kang et al.) for their foundational work on sequential recommendation, adapted in this project.
+- The [SASRec](https://github.com/kang205/SASRec) authors (Kang et al.) and [TiSASRec](https://github.com/JiachengLi1995/TiSASRec) authors (Li et al.) for their foundational work on sequential recommendation, adapted in this project.
